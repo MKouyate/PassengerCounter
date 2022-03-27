@@ -1,1 +1,1 @@
-# mk
+# Hi, im new to programming and these are projects i've built throughtout my coding journey. the best thing i love about coding is every new concept i learn is add to my past projects showing how much progress I've made 
